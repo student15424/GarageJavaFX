@@ -13,9 +13,11 @@ public class App extends Application {
 
     @Override
     public void start(Stage stage) {
+        var label = new Label("Hello, JavaFX");
         var scene = new Scene(new StackPane(label), 480, 640);
         stage.setScene(scene);
         stage.show();
+        
     }
 
     public static void main(String[] args) {
