@@ -11,7 +11,7 @@ This project demonstrates an online management panel for a garage shop, built us
 ## Project Structure | هيكل المشروع
 
 - `src/assets` — contains images and other media files used throughout the project.  
-  يحتوي على الصور والملفات المستخدمة.
+  يحتوي على الصور والوسائط المستخدمة.
 - `src/database` — contains the project's data, stored in `.csv` files for use with Java's `File` class.  
   يحتوي على بيانات المشروع بصيغة `.csv` للتعامل معها من كلاس `File`
 - `src/core` — contains the core logical Java classes.
