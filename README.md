@@ -13,8 +13,3 @@ This project demonstrates an online management panel for a garage shop, built us
 - `project/CS113-Project-Report.pdf` reports and documents the project
 
 ## Contributors
-- ماجد الحربي
-- مشاري الصاعدي
-- عامر الرويثي
-- فارس الصبحي
-- عامر الرحيلي
